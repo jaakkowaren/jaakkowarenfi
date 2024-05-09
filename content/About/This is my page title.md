@@ -1,3 +1,6 @@
+---
+draft:
+---
 
 # This is my page
 
