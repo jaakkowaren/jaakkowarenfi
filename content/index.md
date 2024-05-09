@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Jaakko Warén
 ---
 
 This is a blank Quartz installation.
