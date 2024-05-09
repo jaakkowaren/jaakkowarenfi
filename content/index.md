@@ -1,5 +1,5 @@
 ---
-title:
+title: Welcome
 ---
 
 My name is Jaakko Warén and this is where I publish some of my notes. Right now I´m only using this to practice how I can publish my Obsidian notes as a webpage.
