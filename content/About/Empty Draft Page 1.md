@@ -1,5 +1,6 @@
 ---
 title: 
-draft: true
+draft: false
 tags:
 ---
+Merkattu ei draftiksi
