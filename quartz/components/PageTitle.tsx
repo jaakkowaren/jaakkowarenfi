@@ -8,8 +8,10 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const baseDir = pathToRoot(fileData.slug!)
   return (
     <h1 class={classNames(displayClass, "page-title")}>
-      Otsikko
-      {/*
+      Jaakko Warén
+     
+      {/* Kommentoitu pois jotta saan lisättyä oman otsikon
+
       <a href={baseDir}>{title}</a>
       */}
     </h1>
