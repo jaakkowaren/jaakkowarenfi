@@ -1,1 +1,0 @@
-julkinen eläin
