@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome!
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is page mostly for me at this point, but you are free to look around.
