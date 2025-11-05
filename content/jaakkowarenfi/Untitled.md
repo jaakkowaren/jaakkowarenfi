@@ -1,4 +1,0 @@
----
-fileClass: book
-title: 
----
