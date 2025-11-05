@@ -6,4 +6,6 @@ author:
 published:
 pages:
 read:
+tags:
+  - "#moc/book"
 ---
