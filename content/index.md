@@ -12,7 +12,12 @@ WHERE !contains(file.path, "99 admin/")
 
 AND !contains(file.path, "00 Home/")
 
-SORT file.name DESC -->
+SORT file.name DESC 
+-->
+
+
+
+
 
 
 ```dataview
