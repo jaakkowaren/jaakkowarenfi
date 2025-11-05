@@ -5,7 +5,9 @@ cover: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodrea
 author:
 published:
 pages:
+reading: true
 read:
 tags:
   - "#moc/book"
 ---
+![cover|300](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647792553i/60654237.jpg)
