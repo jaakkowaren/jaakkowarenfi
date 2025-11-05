@@ -11,3 +11,5 @@ tags:
   - "#moc/book"
 ---
 ![cover|300](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647792553i/60654237.jpg)
+
+![[Ahrens, Sönke, 2007, p. 22.2#^e14487]]
