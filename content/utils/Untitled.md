@@ -1,0 +1,1 @@
+![[ahrens-how-to-take-smart-notes.png]]
